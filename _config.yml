@@ -1,9 +1,7 @@
-# Site settings
-title: "Ashita's Writings"
-description: "Collections of poems & prose written by Ashita"
-baseurl: ""
-url: "http://www.poemandprose.com"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+pygments: true
+permalink: /:year/:month/:day/:title
+markdown: rdiscount
+exclude: ['.git']
+name: "Ashita"
+description: "Poem And Prose"
+url: http://www.poemandprose.com
