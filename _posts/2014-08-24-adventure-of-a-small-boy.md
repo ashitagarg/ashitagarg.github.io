@@ -5,7 +5,7 @@ layout: post
 
 There was a small boy who was 6 years old. He loved nature and always used to ask his parents if he could go around an learn about nature. His parents would say that they had lots of work and could not visit nature to learn more about it. He used to ask if he could go alone but his parents would say that he was very young and could go when he was 18 years old.
 
-Years passed and it was the boy's 18 birthday. His parents gave him a wonderful gift that he could visit nature! He began with the Fallington ocean. When he reached the ocean, he asked a man why it is called 'The Fallington Ocean'? He said if a person who is afraid of heights loks down, that person will faint and may fall down in the ocean.
+Years passed and it was the boy's 18 birthday. His parents gave him a wonderful gift that he could go visit nature! He began with the Fallington ocean. When he reached the ocean, he asked a man why it is called 'The Fallington Ocean'? He said if a person who is afraid of heights looks down, that person will faint and may fall down in the ocean.
 
 He turned around and saw a girl going to look in the ocean. He ran to tell the girl and warn her but it was too late. She looked in and she was afraid of heights! Without thinking, the boy jumped in and caught the girl and held onto a stone. He climbed up with the help of stones.
 
@@ -27,11 +27,11 @@ A: Elephant because it was in the fridge!
 Q: A landy wanted to cross the river but there were crocodiles in it. How did she cross?  
 A: The crocodiles were in the lion's birthday!
 
-The girl said that he was very intelligent. She said, "I am giving you two wishes. Think wisely. Before you choose, I'll tell you a small thing: frogs stuck by not going needs help. If you are clever, you will get it."
+The girl said that he was very intelligent. She said, "I am giving you two wishes. Think wisely. Before you choose, I'll tell you a small thing: frogs stuck by not going needs help. "That makes no sense", said the boy. "If you are clever, you will get it." the girl replied.
 
-"That makes no sense", said the boy. He thought for 10 seconds and said, "I wish all the frogs in this lake will get free from the curse."
+He thought for 10 seconds and said, "I wish all the frogs in this lake will get free from the curse."
 
-He understood what the girl asked! Suddenly, all frogs in the river turned into human beings and thy ran for the exit.
+He understood what the girl asked! Suddenly, all frogs in the river turned into human beings and they ran for the exit.
 
 She gave the second clue now. It was: curse of a fairy for a beautiful lady. The boy got confused. "You are smart, you will answer this", said the girl.
 
